@@ -194,7 +194,7 @@
       in
       {
         packages = {
-          default = opensecret;
+          default = base-nitro-kms;
           eif-dev = mkEif "dev";
           eif-prod = mkEif "prod";
           eif-preview = mkEif "preview";
